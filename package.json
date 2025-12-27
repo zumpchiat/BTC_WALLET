@@ -1,0 +1,27 @@
+{
+  "name": "btc_wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zumpchiat/BTC_WALLET.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zumpchiat/BTC_WALLET/issues"
+  },
+  "homepage": "https://github.com/zumpchiat/BTC_WALLET#readme",
+  "dependencies": {
+    "bip32": "^5.0.0",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^7.0.0",
+    "tiny-secp256k1": "^2.2.4"
+  }
+}
